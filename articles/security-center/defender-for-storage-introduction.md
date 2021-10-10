@@ -108,4 +108,3 @@ For related material, see the following articles:
 - [How to enable Microsoft Defender for Storage](../storage/common/azure-defender-storage-configure.md)
 - [The list of Microsoft Defender for Storage alerts](alerts-reference.md#alerts-azurestorage)
 - [Microsoft's threat intelligence capabilities](https://go.microsoft.com/fwlink/?linkid=2128684)
-![image](https://user-images.githubusercontent.com/91825300/136696137-0ecbb43a-55c3-4582-a2dd-633b8648a220.png)
